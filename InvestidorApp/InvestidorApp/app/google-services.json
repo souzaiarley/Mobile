@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "422786984863",
+    "firebase_url": "https://investidor-app-iarley-default-rtdb.firebaseio.com",
+    "project_id": "investidor-app-iarley",
+    "storage_bucket": "investidor-app-iarley.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422786984863:android:d26911c92bd55bdad26baa",
+        "android_client_info": {
+          "package_name": "com.example.investidorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYZFDtlIuWnl4lO_l0glXx54MxdzPAkXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
