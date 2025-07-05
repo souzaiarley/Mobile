@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794868272351",
+    "project_id": "crud-item-app-iarley",
+    "storage_bucket": "crud-item-app-iarley.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794868272351:android:181cb97c7773b8ed21ed6a",
+        "android_client_info": {
+          "package_name": "com.example.cruditemapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKaB07TED8tCuq02v55OQTpK6yQ6-gYvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
