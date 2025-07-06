@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783629424090",
+    "project_id": "msgapp-iarley",
+    "storage_bucket": "msgapp-iarley.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783629424090:android:3408ea61b0beab847adce3",
+        "android_client_info": {
+          "package_name": "com.example.msgapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZm0KXIwd1WX_M9G19dRF8PJM3rmYfYdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
