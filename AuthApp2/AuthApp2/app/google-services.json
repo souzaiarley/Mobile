@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "706888378300",
+    "project_id": "auth-app2-iarley",
+    "storage_bucket": "auth-app2-iarley.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706888378300:android:049a652ec91105d78cadb9",
+        "android_client_info": {
+          "package_name": "com.example.authapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706888378300-s87dld6tnksiftikok2jpug6eh5cjhib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authapp2",
+            "certificate_hash": "be5a249304f2b5c6620f460684d31a2991bb3a09"
+          }
+        },
+        {
+          "client_id": "706888378300-fueso3f6j4nbre39vjoojk6eu9tnte1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhIZZouhXe5NX6YFkejKOTRJi_C-VQ2Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706888378300-fueso3f6j4nbre39vjoojk6eu9tnte1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
